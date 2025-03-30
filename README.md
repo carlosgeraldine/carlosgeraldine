@@ -1,19 +1,19 @@
 # Carlos Richard Geraldine 👨‍💻
 
-Welcome to my GitHub profile! I'm Carlos, **IT PMO**, **Business Analyst**, **ERP Consultant**, and **DevSecOps** enthusiast. I have a passion for solving problems with technology, improving business processes, and learning new things along the way.
+Welcome to my GitHub profile! I'm Carlos, **IT Project Manager**, **Business Analyst**, **D365 Functional Consultant**, and **DevSecOps** enthusiast. I have a passion for improving business processes and learning new things along the way.
 
 ---
 
-![Junior IT PMO](https://img.shields.io/badge/Role-Junior%20IT%20PMO-blue)
+![IT Project Manager](https://img.shields.io/badge/Role-Junior%20IT%20PMO-blue)
 ![Business Analyst](https://img.shields.io/badge/Role-Business%20Analyst-yellowgreen)
-![ERP Consultant](https://img.shields.io/badge/Role-ERP%20Consultant-blueviolet)
+![Microsoft Dynamics 365 Functional Consultant](https://img.shields.io/badge/Role-D365%20Consultant-blueviolet)
 ![DevSecOps](https://img.shields.io/badge/Interest-DevSecOps-lightgrey)
 
 ---
 
 ## About Me
 
-- 🔧 **IT PMO**: I focus on project management, ensuring IT projects are completed successfully within scope, time, and budget.
+- 🔧 **IT Project Manager**: I focus on project management, ensuring IT projects are completed successfully within scope, time, and budget.
 - 💼 **Business Analyst**: I bridge the gap between business needs and technical solutions, facilitating communication and ensuring project alignment.
 - 💻 **ERP Consultant**: I assist businesses with ERP system implementation and optimization, improving operational efficiency.
 - 🔐 **DevSecOps**: Learning the integration of security practices into the software development lifecycle and ensuring continuous improvement in security.
@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm Carlos, **IT PMO**, **Business Analyst**, **ER
 [![Python](https://img.shields.io/badge/Python-%20-%23326CE5?style=flat&logo=Python)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-%20-%23F46800?style=flat&logo=MySQL)](https://www.mysql.com)
 [![SAP Signavio](https://img.shields.io/badge/SAP%20Signavio-%20-%23326CE5?style=flat&logo=SAP)](https://www.signavio.com)
-[![SAP S/4HANA Cloud](https://img.shields.io/badge/SAP%20S%2F4HANA%20Cloud-%20-%23326CE5?style=flat&logo=SAP)](https://www.sap.com)
-[![SAP Activate](https://img.shields.io/badge/SAP%20Activate-%20-%23326CE5?style=flat&logo=SAP)](https://www.sap.com/products/erp/activate-methodology.html)
 [![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%20-%23326CE5?style=flat&logo=Microsoft)](https://www.microsoft.com/en-us/power-platform/try-free?msockid=02ad0a5063e8685016c01f2a62ad6933)
 [![Agile Scrum](https://img.shields.io/badge/Scrum-red)](https://agilealliance.com)
 [![Docker](https://img.shields.io/badge/Docker-%20-%232496ED?style=flat&logo=Docker)](https://www.docker.com)
@@ -40,13 +38,13 @@ Welcome to my GitHub profile! I'm Carlos, **IT PMO**, **Business Analyst**, **ER
 
 ---
 
-## Let's Connect! 🌐
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/carlosgeraldine)  
 
 ---
 
-## Get in Touch 📬
+## Get in Touch
 
 Feel free to reach out to me for collaborations, questions, or just a chat about technology!
 
